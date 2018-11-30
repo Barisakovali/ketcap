@@ -1,0 +1,11 @@
+.ui.placeholder.segment {
+  height: 100%;
+  background: #fff;
+}
+.login-form {
+  margin: 0 auto;
+  max-width: 80% !important;
+}
+.button a {
+  color: #fff;
+}
