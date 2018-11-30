@@ -24,7 +24,7 @@ class StudentLogin extends Component {
           <Grid.Row verticalAlign="middle">
             <Grid.Column>
               <Header as="h2" textAlign="center">
-                <Image src={PARENT} /> LOGIN AS STUDENT
+                <Image src={PARENT} /> LOGIN AS PARENT
               </Header>
               <Form className="login-form">
                 <Segment padded="very" color="blue">
